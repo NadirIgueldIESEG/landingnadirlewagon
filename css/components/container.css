@@ -1,0 +1,59 @@
+#hero {
+  text-align: center;
+}
+
+#hero h2 {
+  font-size: 24px;
+}
+
+#produits a {
+  border-radius: 4px;
+  background-color: #231942;
+  }
+
+
+#produits {
+  justify-content: space-between;
+  align-items: center;
+  background-color: #5e548e;
+  justify-content: space-between;
+}
+
+#produits h2 {
+  color: white;
+}
+
+
+.produits {
+  text-align: center;
+  font-family: 'Orbitron';
+}
+
+.cta {
+  border-radius: 4px;
+  display: inline-block;
+  background-color: #231942;
+  color: #fff;
+  padding: 10px 20px;
+  text-decoration: none;
+  margin-top: 10px;
+}
+
+#services {
+  text-align: center;
+  font-family: 'Orbitron';
+}
+
+#services ul {
+  list-style: none;
+  padding: 0;
+}
+
+#services li {
+  display: inline-block;
+  margin: 0 120px;
+}
+
+#contact {
+  background-color: #fff;
+}                                                               
